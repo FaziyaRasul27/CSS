@@ -1,22 +1,23 @@
 .box{
-    color: rgb(0, 0, 0);
+    border: 5px solid lightgray;
+    color: white;
     font-family: sans-serif;
-    background-color: plum;
-    width: 800px;
-    padding: 50px;
-    margin: 200px auto;
+    background-color: rgb(103, 42, 42);
+    width: 600px;
+    padding: 150px;
+    margin: 100px auto;
     height: 200px;
 }
 .btn{
     border: none;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     padding: 10px;
-    border-radius: 14px;
+    border-radius: 50px;
     font-size: 16px;
     width: 200px;
 }
 .text{
-    font-size: larger;
+    font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
